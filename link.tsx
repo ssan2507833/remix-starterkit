@@ -2,4 +2,4 @@ const LinkFunction = () => {
   return 5;
 };
 
-export const LinkFunction;
+export default LinkFunction;
